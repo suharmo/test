@@ -1,0 +1,156 @@
+.header-sec {
+    background-image: url('./images/bg-masthead.jpg');
+    background-size: cover;
+    background-image: -webkit-linear-gradient(top, rgba(121, 121, 121, 0.479), rgb(0, 0, 0)), url('./images/bg-masthead.jpg');
+    /* Chrome 10+, Saf5.1+ */
+
+}
+
+.heading1 {
+    background: -webkit-linear-gradient(rgb(255, 255, 255), rgb(59, 59, 59));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+header {
+    width: 100%;
+    height: 100%
+}
+
+.grayscale {
+    margin-top: 9%;
+}
+
+.text-gray {
+    color: rgb(167, 166, 166) !important;
+}
+
+.btn-info {
+    background: rgb(37, 182, 133) !important;
+    margin-bottom: 70%;
+}
+
+.text-acqua {
+    color: rgb(37, 182, 133) !important;
+}
+
+.btn-info1 {
+    background: rgb(37, 182, 133) !important;
+
+}
+
+input {
+    padding: 30px !important;
+}
+
+.subscribe {
+    padding: 2.4% !important;
+    width: 17%;
+}
+
+.sub {
+    padding-bottom: 10% !important;
+}
+
+
+.built {
+
+
+    text-align: center;
+    background: -webkit-linear-gradient(top, rgb(0, 0, 0), rgb(20, 20, 20));
+
+    padding-top: 7%;
+}
+
+.built img {
+    width: 80%
+}
+
+.shoreline {
+    border-left: rgb(37, 182, 133) solid 10px;
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+
+.img-sha {
+    padding: 0 !important;
+}
+
+.pad-l {
+    padding-left: 7% !important;
+}
+
+.pad-r {
+    padding-right: 7% !important;
+}
+
+.hr {
+    background: rgb(37, 182, 133);
+    width: 40%;
+    height: 5px;
+    margin: 0;
+}
+
+.hr-r {
+    margin-left: 60%;
+}
+
+.form-sub {
+    background: -webkit-linear-gradient(bottom, rgb(26, 26, 26), rgba(54, 54, 54, 0.287)), url("./images/bg-signup.jpg");
+    background-size: cover;
+
+}
+
+.form-sub div {
+    padding-top: 10%;
+
+}
+
+.sec2 {
+    margin-bottom: 10%;
+}
+
+.email-en {
+    width: 100% !important;
+
+}
+
+.hr2 {
+    margin-left: 37% !important;
+    margin-right: 37% !important;
+    width: 25%;
+}
+
+.b-bottom {
+    border-bottom: solid 5px rgb(37, 182, 133) !important;
+    margin-bottom: 0 !important;
+}
+
+.contact {
+    background: -webkit-linear-gradient(bottom, rgb(26, 26, 26), rgb(26, 26, 26));
+    padding-top: 4% !important;
+}
+
+.bg-gray {
+    background: rgb(44, 44, 44);
+    color: rgb(78, 77, 77);
+    padding: 1%;
+    width: 5%
+}
+
+.social {
+    margin-top: 5%;
+    padding-bottom: 5%;
+    text-align: center;
+    
+
+}
+
+.bg-gray a i{
+    color: rgb(100, 100, 100);
+    width: 20%!important;
+}
+
+footer{
+    text-align: center
+}
